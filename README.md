@@ -1,4 +1,4 @@
-# Nyan Nyan Neko Gēmu
+# Nyan Nyan Neko
 
 Nyan Nyan Neko Gēmu  (meow meow cat game) is a network-based simulation game that allows users to create and train their own virtual cats in a realistic 3D environment.
 
