@@ -1,6 +1,6 @@
-# Cat-Training-Simulator
+# Nyan Nyan Neko Gēmu
 
-Cat-Training-Simulator is a network-based simulation game that allows users to create and train their own virtual cats in a realistic 3D environment.
+Nyan Nyan Neko Gēmu is a network-based simulation game that allows users to create and train their own virtual cats in a realistic 3D environment.
 
 ## Features
 
